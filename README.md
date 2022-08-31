@@ -1,1 +1,1 @@
-this repository is for scripts from shell basics 
+A script to print the absolute path name of the current working directory
