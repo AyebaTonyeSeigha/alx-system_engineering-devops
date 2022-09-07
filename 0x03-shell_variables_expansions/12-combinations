@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo {a..z}{a..z} | tr 
+=======
+echo {a..z}{a..z} | tr ' ' '\n' | grep -v "oo"
+>>>>>>> 4e69525d815d1a85f9ab0df99679f475aa39ae1d
